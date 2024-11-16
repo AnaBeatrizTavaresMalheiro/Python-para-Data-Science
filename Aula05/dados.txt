@@ -1,0 +1,3 @@
+Nome: Ana Beatriz
+               Idade: 20
+               Curso: Ciencia da computação
